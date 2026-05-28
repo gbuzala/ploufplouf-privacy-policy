@@ -72,7 +72,7 @@ Conformément aux lois applicables, vous pouvez :
 
 Pour toute demande, vous pouvez contacter :
 
-**[à compléter avec votre adresse email]**
+**contact@ploufplouf.app**
 
 ---
 
@@ -102,4 +102,4 @@ Certaines informations techniques, comme un identifiant de notification, peuvent
 
 Pour toute question concernant cette politique de confidentialité :
 
-**[à compléter avec votre adresse email]**
+**contact@ploufplouf.app**
